@@ -2,12 +2,59 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/jeremiah14/logo/main/logo.png",
         "url_png_logo": "https://raw.githubusercontent.com/jeremiah14/logo/main/logo.png",
-        "location": "Philippines, Manila",
+        "location": "London, England",
         "social": {
             "twitter_handle": "cloudpoolph",
             "telegram_handle": "cloudpoolph",
             "facebook_handle": "cloudpoolph",
-            "youtube_handle": "cloudpoolph"
+            "youtube_handle": "cloudpoolph",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
         }
-    }   
+    }
 }
